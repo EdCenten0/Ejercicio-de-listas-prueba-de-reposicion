@@ -1,0 +1,4 @@
+nombrePaciente = []
+edadPaciente = []
+fechaIngresoPaciente = []
+domicilioPaciente = []
